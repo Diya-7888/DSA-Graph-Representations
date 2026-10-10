@@ -1,0 +1,9 @@
+BFS starting from A:
+BFS: A B C D E F 
+
+DFS starting from A:
+A B D E F C 
+
+Searching for E:
+Vertex E found at position 4
+Search operations: 5

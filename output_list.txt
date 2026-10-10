@@ -1,0 +1,17 @@
+Adjacency List:
+A -> C B 
+B -> E D A 
+C -> F A 
+D -> B 
+E -> F B 
+F -> E C 
+
+BFS starting from A:
+BFS: A C B F E D 
+
+DFS starting from A:
+A C F E B D 
+
+Searching for E:
+Vertex E found at position 4
+Search operations: 5
